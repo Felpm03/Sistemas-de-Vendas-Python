@@ -21,7 +21,7 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 
 
-# ▶️ Como executar o projeto
+#▶️ Como executar o projeto
 
 1. Clone o repositório:
 
@@ -34,3 +34,12 @@ git clone https://github.com/Felp03/Sistemas-de-Vendas-Python.git
 
 
 
+# 👨‍💻 Autor
+
+Felipe Magossi
+
+---
+
+# 📄Licença
+
+Projeto livre para fins de estudo.
