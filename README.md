@@ -15,9 +15,10 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ---
 
-#🧰Tecnologias Utilizadas
+#🧰 Tecnologias Utilizadas
 
 - Python 3.13
+
 
 
 #▶️ Como executar o projeto
