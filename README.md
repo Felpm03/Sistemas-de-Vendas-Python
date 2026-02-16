@@ -32,16 +32,5 @@ git clone https://github.com/Felp03/Sistemas-de-Vendas-Python.git
 
 3- Execute o arquivo principal (python main.py).
 
----
 
-
-# 👨‍💻 Autor
-
-Felipe Magossi
-
----
-
-# 📄Licença
-
-Projeto livre para fins de estudo.
 
