@@ -1,6 +1,6 @@
 # 🛒 Sistema de Vendas em Python
 
-Projeto desenvolvido em Python com o objetivo de simular um sistema simples de vendas para facilitar e organizar, de forma prática e eficiente, as compras dos clientes.
+O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simples de vendas para facilitar e organizar, de forma prática e eficiente, as compras dos clientes.
 
 ---
 
