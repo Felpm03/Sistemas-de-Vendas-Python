@@ -1,10 +1,10 @@
-# 🛒 Sistema de Vendas em Python
+## 🛒 Sistema de Vendas em Python
 
 O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simples de vendas para facilitar e organizar, de forma prática e eficiente, as compras dos clientes.
 
 ---
 
-#🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - Cadastrar produto (nome e preço)
 - Listar produtos cadastrados
@@ -15,13 +15,13 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ---
 
-#🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas
 
 - Python 3.13
 
 
 
-#▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 
 1. Clone o repositório:
 
@@ -32,14 +32,14 @@ git clone https://github.com/Felp03/Sistemas-de-Vendas-Python.git
 
 3- Execute o arquivo principal (python main.py).
 
+---
 
-
-# 👨‍💻 Autor
+##👨‍💻 Autor
 
 Felipe Magossi
 
 ---
 
-# 📄Licença
+##📄Licença
 
 Projeto livre para fins de estudo.
