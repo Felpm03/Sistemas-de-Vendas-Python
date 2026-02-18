@@ -34,10 +34,9 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ## ▶️ Como executar o projeto
 
-1. Clone o repositório:
+1. Clone o Repositório: Clone este repositório em sua máquina local.
 
-```bash
-git clone https://github.com/Felpm03/Sistemas-de-Vendas-Python.git
+git clone https://github.com/Felpm03/Sistemas-de-Vendas-Python.git.
 
 2- Acessa a pasta do projeto (cd Sistemas-de-Vendas-Python).
 
