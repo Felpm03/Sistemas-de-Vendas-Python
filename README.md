@@ -42,6 +42,8 @@ git clone https://github.com/Felpm03/Sistemas-de-Vendas-Python.git.
 
 3. Execute o arquivo principal (python main.py).
 
+4. Siga as instruções do programa para registrar ou visualizar as vendas.
+
 
 
 
