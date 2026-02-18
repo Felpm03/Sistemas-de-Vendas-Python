@@ -4,6 +4,16 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ---
 
+
+##👨‍💻 Autor
+
+Felipe Magossi
+
+##📄Licença
+
+Projeto livre para fins de estudo.
+
+
 ## 🚀 Funcionalidades
 
 - Cadastrar produto (nome e preço)
@@ -18,14 +28,6 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 ## 🧰 Tecnologias Utilizadas
 
 - Python 3.13
-
-##👨‍💻 Autor
-
-Felipe Magossi
-
-##📄Licença
-
-Projeto livre para fins de estudo.
 
 
 ## ▶️ Como executar o projeto
