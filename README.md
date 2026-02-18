@@ -37,7 +37,7 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Felp03/Sistemas-de-Vendas-Python.git
+git clone https://github.com/Felpm03/Sistemas-de-Vendas-Python.git
 
 2- Acessa a pasta do projeto (cd Sistemas-de-Vendas-Python).
 
