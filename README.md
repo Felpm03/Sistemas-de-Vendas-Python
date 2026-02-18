@@ -6,12 +6,12 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ## 🚀 Funcionalidades
 
--Cadastrar produto (nome e preço)
--Listar produtos cadastrados
--Registrar venda
--Mostrar total de vendas
--Mostrar quantidade de vendas
--Gerar relatório de vendas
+- Cadastrar produto (nome e preço)
+- Listar produtos cadastrados
+- Registrar venda
+- Mostrar total de vendas
+- Mostrar quantidade de vendas
+- Gerar relatório de vendas
 
 ---
 
