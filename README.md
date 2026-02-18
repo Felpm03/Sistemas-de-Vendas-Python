@@ -19,6 +19,13 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 - Python 3.13
 
+##👨‍💻 Autor
+
+Felipe Magossi
+
+##📄Licença
+
+Projeto livre para fins de estudo.
 
 
 ## ▶️ Como executar o projeto
@@ -32,11 +39,3 @@ git clone https://github.com/Felp03/Sistemas-de-Vendas-Python.git
 
 3- Execute o arquivo principal (python main.py).
 
-##👨‍💻 Autor
-
-Felipe Magossi
-
----
-##📄Licença
-
-Projeto livre para fins de estudo.
