@@ -5,14 +5,15 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 ---
 
 
-#👨‍💻 Autor
+##👨‍💻 Autor
 
 Felipe Magossi
 
-#📄Licença
+##📄Licença
 
 Projeto livre para fins de estudo.
 
+---
 
 ## 🚀 Funcionalidades
 
