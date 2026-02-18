@@ -23,7 +23,7 @@ O Projeto foi desenvolvido em Python com o objetivo de simular um sistema simple
 
 ## 👤 Autor
 
-Felipe Magossi
+- Felipe Magossi
 
 ---
 
